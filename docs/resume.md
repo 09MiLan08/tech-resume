@@ -12,7 +12,7 @@
   </div>
   <!-- 右侧照片 -->
   <div style="flex: 0 0 160px;">
-    <img src="https://github.com/09MiLan08/你的仓库名/raw/main/photos/avatar.jpg" alt="个人照片" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="./images/avatar.jpg" alt="个人照片" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 
@@ -59,7 +59,7 @@
 ### 项目 2：成都城市生活数据洞察平台（FastAPI + ECharts）
 
 - GitHub 链接：<a href="https://github.com/09MiLan08/jicheng-life-data-insight.git" target="_blank">查看仓库</a >
-- 在线演示：<a href="https://你的部署地址.vercel.app" target="_blank">点击体验</a >
+- 在线演示：<a href="https://你的部署地址.vercel.app" target="_blank">点击体验(以本人电脑体验最佳)</a >
 - 技术栈：FastAPI + ECharts + Vue3
 - 项目描述：整合成都城市生活数据（交通、消费、环境等），通过可视化图表展示数据洞察，为用户提供决策参考。
 - 核心工作：
@@ -71,7 +71,7 @@
 - GitHub 链接：
   <a href="https://github.com/09MiLan08/oa-frontend-.git" target="_blank">查看前端仓库</a >，
   <a href="https://github.com/09MiLan08/tian-oa-system.git" target="_blank">查看后端仓库</a >
-- 在线演示：<a href="https://你的部署地址.vercel.app" target="_blank">点击体验</a >
+- 在线演示：<a href="https://你的部署地址.vercel.app" target="_blank">点击体验(以本人电脑体验最佳)</a >
 - 技术栈：Django + Django REST Framework + MySQL + Vue3
 - 项目描述：为天府软件园企业打造的内部办公系统，实现员工登录、审批流程、公告发布及权限控制、部门管理等功能。
 - 核心工作：
@@ -82,9 +82,12 @@
 ## 教育背景
 
 - 湖南高尔夫旅游职业学院 | 计算机应用技术 | 专科 | 2023.09 - 2026.06
-- 主修课程：数据库原理、Vue3 前端框架开发、Python 开发技术、计算机网络、UI 设计、Photoshop
+- 主修课程：数据库原理、Vue3 前端框架开发、Python 开发技术、计算机网络
+- 辅修课程：UI 设计、Photoshop
 
 ## 拓展文档
 
-- [架构设计文档](https://github.com/09MiLan08/oa-management-system/blob/main/架构设计.md)
-- [问题分析日志](https://github.com/09MiLan08/chengdu-data-platform/blob/main/问题分析日志.md)
+- [项目一架构设计文档](https://github.com/09MiLan08/game-dev-blog-v2/blob/main/项目一架构设计.md?plain=1)
+- [项目二架构设计文档](https://github.com/09MiLan08/jicheng-life-data-insight/blob/main/项目二架构设计.md)
+- [项目三架构设计文档](https://github.com/09MiLan08/tian-oa-system/blob/main/项目三架构设计.md)
+- [问题分析日志](https://github.com/09MiLan08/tian-oa-system/blob/main/问题分析日志.md)
